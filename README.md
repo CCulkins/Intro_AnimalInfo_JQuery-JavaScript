@@ -1,6 +1,6 @@
 # _Animal Facts_
 
-#### Simple alert application that displays animal facts based on users animal choice, Jan 10, 2016
+#### Simple alert application that displays animal facts based on users animal choice, Jan 13, 2016
 
 #### By _**Christopher & Cassy**_
 
